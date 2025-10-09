@@ -1,0 +1,16 @@
+C:\Users\lab_c\source\repos\GİTHUBNEHİR\GİTHUBNEHİR\bin\Debug\net7.0-windows\GİTHUBNEHİR.exe
+C:\Users\lab_c\source\repos\GİTHUBNEHİR\GİTHUBNEHİR\bin\Debug\net7.0-windows\GİTHUBNEHİR.deps.json
+C:\Users\lab_c\source\repos\GİTHUBNEHİR\GİTHUBNEHİR\bin\Debug\net7.0-windows\GİTHUBNEHİR.runtimeconfig.json
+C:\Users\lab_c\source\repos\GİTHUBNEHİR\GİTHUBNEHİR\bin\Debug\net7.0-windows\GİTHUBNEHİR.dll
+C:\Users\lab_c\source\repos\GİTHUBNEHİR\GİTHUBNEHİR\bin\Debug\net7.0-windows\GİTHUBNEHİR.pdb
+C:\Users\lab_c\source\repos\GİTHUBNEHİR\GİTHUBNEHİR\obj\Debug\net7.0-windows\GİTHUBNEHİR.Form1.resources
+C:\Users\lab_c\source\repos\GİTHUBNEHİR\GİTHUBNEHİR\obj\Debug\net7.0-windows\GİTHUBNEHİR.csproj.GenerateResource.cache
+C:\Users\lab_c\source\repos\GİTHUBNEHİR\GİTHUBNEHİR\obj\Debug\net7.0-windows\GİTHUBNEHİR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_c\source\repos\GİTHUBNEHİR\GİTHUBNEHİR\obj\Debug\net7.0-windows\GİTHUBNEHİR.AssemblyInfoInputs.cache
+C:\Users\lab_c\source\repos\GİTHUBNEHİR\GİTHUBNEHİR\obj\Debug\net7.0-windows\GİTHUBNEHİR.AssemblyInfo.cs
+C:\Users\lab_c\source\repos\GİTHUBNEHİR\GİTHUBNEHİR\obj\Debug\net7.0-windows\GİTHUBNEHİR.csproj.CoreCompileInputs.cache
+C:\Users\lab_c\source\repos\GİTHUBNEHİR\GİTHUBNEHİR\obj\Debug\net7.0-windows\GİTHUBNEHİR.dll
+C:\Users\lab_c\source\repos\GİTHUBNEHİR\GİTHUBNEHİR\obj\Debug\net7.0-windows\refint\GİTHUBNEHİR.dll
+C:\Users\lab_c\source\repos\GİTHUBNEHİR\GİTHUBNEHİR\obj\Debug\net7.0-windows\GİTHUBNEHİR.pdb
+C:\Users\lab_c\source\repos\GİTHUBNEHİR\GİTHUBNEHİR\obj\Debug\net7.0-windows\GİTHUBNEHİR.genruntimeconfig.cache
+C:\Users\lab_c\source\repos\GİTHUBNEHİR\GİTHUBNEHİR\obj\Debug\net7.0-windows\ref\GİTHUBNEHİR.dll
