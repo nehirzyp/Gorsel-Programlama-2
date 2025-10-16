@@ -114,10 +114,7 @@ namespace PuanOyunu
 
             PuanGuncelle();
         }
-        private void timer1_Tick(object sender, EventArgs e)
-        {
-            
-        }
+
         private void PuanGuncelle()
         {
             foreach (Form f in Application.OpenForms)
@@ -127,12 +124,24 @@ namespace PuanOyunu
                     form.label1.Text = $"Puan: {puan}";
                 }
             }
+
+            // KAZANMA KONTROLÜ:
+            if (puan >= 100)
+            {
+                timer1.Stop(); // Oyunu durdur
+                oyunButon.Enabled = false; // Butona basýlmasýn
+                MessageBox.Show("Tebrikler, kazandýnýz!", "Oyun Bitti", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
         }
 
         //Boþ designer eventleri için 
         private void label1_Click(object sender, EventArgs e)
         {
             
+        }
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+
         }
     }
 }
