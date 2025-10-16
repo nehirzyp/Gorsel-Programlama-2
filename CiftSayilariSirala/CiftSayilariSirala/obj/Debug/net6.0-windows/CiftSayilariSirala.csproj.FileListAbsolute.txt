@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\CiftSayilariSirala\CiftSayilariSirala\bin\Debug\net6.0-windows\CiftSayilariSirala.exe
+C:\Users\Administrator\Desktop\CiftSayilariSirala\CiftSayilariSirala\bin\Debug\net6.0-windows\CiftSayilariSirala.deps.json
+C:\Users\Administrator\Desktop\CiftSayilariSirala\CiftSayilariSirala\bin\Debug\net6.0-windows\CiftSayilariSirala.runtimeconfig.json
+C:\Users\Administrator\Desktop\CiftSayilariSirala\CiftSayilariSirala\bin\Debug\net6.0-windows\CiftSayilariSirala.dll
+C:\Users\Administrator\Desktop\CiftSayilariSirala\CiftSayilariSirala\bin\Debug\net6.0-windows\ref\CiftSayilariSirala.dll
+C:\Users\Administrator\Desktop\CiftSayilariSirala\CiftSayilariSirala\bin\Debug\net6.0-windows\CiftSayilariSirala.pdb
+C:\Users\Administrator\Desktop\CiftSayilariSirala\CiftSayilariSirala\obj\Debug\net6.0-windows\CiftSayilariSirala.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\CiftSayilariSirala\CiftSayilariSirala\obj\Debug\net6.0-windows\CiftSayilariSirala.Form1.resources
+C:\Users\Administrator\Desktop\CiftSayilariSirala\CiftSayilariSirala\obj\Debug\net6.0-windows\CiftSayilariSirala.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\CiftSayilariSirala\CiftSayilariSirala\obj\Debug\net6.0-windows\CiftSayilariSirala.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\CiftSayilariSirala\CiftSayilariSirala\obj\Debug\net6.0-windows\CiftSayilariSirala.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CiftSayilariSirala\CiftSayilariSirala\obj\Debug\net6.0-windows\CiftSayilariSirala.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CiftSayilariSirala\CiftSayilariSirala\obj\Debug\net6.0-windows\CiftSayilariSirala.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CiftSayilariSirala\CiftSayilariSirala\obj\Debug\net6.0-windows\CiftSayilariSirala.dll
+C:\Users\Administrator\Desktop\CiftSayilariSirala\CiftSayilariSirala\obj\Debug\net6.0-windows\ref\CiftSayilariSirala.dll
+C:\Users\Administrator\Desktop\CiftSayilariSirala\CiftSayilariSirala\obj\Debug\net6.0-windows\CiftSayilariSirala.pdb
+C:\Users\Administrator\Desktop\CiftSayilariSirala\CiftSayilariSirala\obj\Debug\net6.0-windows\CiftSayilariSirala.genruntimeconfig.cache
